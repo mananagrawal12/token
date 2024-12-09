@@ -1,0 +1,11 @@
+{
+  "name": "TSAR",
+  "symbol": "TSAR",
+  "image": "https://raw.githubusercontent.com/himan9192393/solana/refs/heads/main/tsar.jpeg",
+  "attributes": [
+    {
+      "trait_type": "Item",
+      "value": "Compressed Coil"
+    }
+  ]
+}
